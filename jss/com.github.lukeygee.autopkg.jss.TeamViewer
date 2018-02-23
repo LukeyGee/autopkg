@@ -9,7 +9,7 @@
         <key>Input</key>
         <dict>
             <key>NAME</key>
-            <string>Teamviewer/string>
+            <string>Teamviewer</string>
             <key>JSS_INVENTORY_NAME</key>
             <string>Teamviewer.app</string>
             <key>CATEGORY</key>
